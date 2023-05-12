@@ -12,6 +12,7 @@ font-family: 'Poppins', sans-serif; */
 
 body {
   font-family: "Manrope", sans-serif;
+  width: 100vw;
 }
 
 .container {

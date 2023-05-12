@@ -94,6 +94,11 @@
 }
 
 @media (max-width: 600px) {
+  .explore {
+    width: 100vw;
+    overflow: hidden;
+  }
+
   .explore h3 {
     font-size: 30px;
     line-height: 30px;
@@ -113,6 +118,10 @@
     grid-template-columns: 1fr;
     gap: 20px;
   }
+
+  /* .explore .box {
+    border: 1px solid red;
+  } */
 
   .explore .btn__wrapper {
     width: 100%;
