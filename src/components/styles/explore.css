@@ -119,9 +119,10 @@
     gap: 20px;
   }
 
-  /* .explore .box {
-    border: 1px solid red;
-  } */
+  .explore .box {
+    width: 300px;
+    margin: 0 auto;
+  }
 
   .explore .btn__wrapper {
     width: 100%;
